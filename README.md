@@ -13,8 +13,10 @@
 4. link
     - include directories
     - link directories and libraries
-        - !!!: Error where ADD_EXECUTABLE is before LINK_DIRECTORIES or LINK_LIBRARIES
+        - **!!!: Error where ADD_EXECUTABLE is before LINK_DIRECTORIES or LINK_LIBRARIES**
     - target link libraries
+5. model
+    - find package
 
 # References
 
