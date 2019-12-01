@@ -6,6 +6,10 @@
 2. better
     - src and bin
     - install
+3. lib
+    - lib
+    - shared and static
+    - install
 
 # References
 
