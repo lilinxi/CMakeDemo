@@ -17,6 +17,8 @@
     - target link libraries
 5. model
     - find package
+6. find
+    - Find<name>.cmake in ${CMAKE_MODULE_PATH} or ${CMAKE_ROOT}/Modules
 
 # References
 
